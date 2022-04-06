@@ -6,9 +6,9 @@
       "species": "bear",
       "diet": "omnivore",
       "personalityTraits": [
-      "hungry",
-      "zany",
-      "loving"
+        "hungry",
+        "zany",
+        "loving"
       ]
     },
     {
@@ -17,18 +17,18 @@
       "species": "gorilla",
       "diet": "folivore",
       "personalityTraits": [
-      "anxious",
-      "goofy"
-    ]
+        "anxious",
+        "goofy"
+      ]
     },
-      {
+    {
       "id": "2",
       "name": "Erica",
       "species": "gorilla",
       "diet": "folivore",
       "personalityTraits": [
-      "quirky",
-      "rash"
+        "quirky",
+        "rash"
       ]
     },
     {
@@ -37,9 +37,9 @@
       "species": "bear",
       "diet": "omnivore",
       "personalityTraits": [
-      "impish",
-      "sassy",
-      "brave"
+        "impish",
+        "sassy",
+        "brave"
       ]
     },
     {
@@ -48,8 +48,8 @@
       "species": "penguin",
       "diet": "piscivore",
       "personalityTraits": [
-      "loving",
-      "goofy"
+        "loving",
+        "goofy"
       ]
     },
     {
@@ -58,8 +58,8 @@
       "species": "ostrich",
       "diet": "omnivore",
       "personalityTraits": [
-      "hungry",
-      "goofy"
+        "hungry",
+        "goofy"
       ]
     },
     {
@@ -68,7 +68,7 @@
       "species": "Doggo",
       "diet": "omnivore",
       "personalityTraits": [
-      "zany"
+        "zany"
       ]
     },
     {
@@ -77,9 +77,9 @@
       "species": "Doggo",
       "diet": "omnivore",
       "personalityTraits": [
-      "hungry",
-      "zany",
-      "goofy"
+        "hungry",
+        "zany",
+        "goofy"
       ]
     },
     {
@@ -88,7 +88,7 @@
       "species": "Quokka",
       "diet": "herbivore",
       "personalityTraits": [
-      "loving"
+        "loving"
       ]
     },
     {
@@ -97,8 +97,17 @@
       "species": "Tiger",
       "diet": "carnivore",
       "personalityTraits": [
-      "hungry"
+        "hungry"
       ]
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "10"
     }
   ]
 }
