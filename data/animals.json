@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "john",
+      "species": "dingo",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "11"
     }
   ]
 }
